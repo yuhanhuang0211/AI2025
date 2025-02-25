@@ -2,6 +2,9 @@
 
 教材在此 >> [Introduction of AI](https://marmalade-freesia-605.notion.site/Week-2-Introduction-of-AI-1a07643aed3c80b08618f49aafdcf177)
 
+* Create GitHub account and the first repo, then add one image in README.md file.
+* Answer the questions below.
+
 AI 起手式
 ---
 
