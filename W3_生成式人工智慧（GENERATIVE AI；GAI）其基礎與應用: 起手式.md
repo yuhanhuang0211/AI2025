@@ -16,7 +16,7 @@
 
 * result: 完整對話詳見[此連結](https://chatgpt.com/share/67c6c90d-3334-8002-b530-ea03a8cadf70)
 
-![image](https://github.com/user-attachments/assets/0304f057-2608-412a-92c8-d1b1e6e7d7b2)
+![image](https://github.com/user-attachments/assets/7ca251f1-6020-4c67-be94-93f7105a90b8)
 
 ### 文章摘要與重點摘取
 
@@ -90,18 +90,39 @@ Please write in Traditional Chinese language.
 
 ![螢幕擷取畫面 2025-03-04 175505](https://github.com/user-attachments/assets/88fc07ef-d290-47f7-87b6-696e5b86059c)
 
+### 四、影片腳本生成器
 
-### 四、影片腳本生成器：「國立臺北大學資訊管理研究所成果發表會」，請 GPT 生成一段簡短的影片腳本
+* prompt:（目的是讓 GPT 協助我完成最近的作業初稿設計）
 
-* prompt: 
+我最近需要做一部至少3分鐘的自我介紹影片（該影片需要具有專業度與吸引力，並充分展現個人特色），請根據我上面提供給你的個人資訊，幫我寫一段影片講稿跟畫面規劃建議，影片的其他要求如下：
 
-* result: 完整對話詳見[此連結]()
+🔸內容應包含：個人介紹（學歷、專業、興趣）、專業經驗或專題計畫、未來目標（與AI相關）
+  
+🔸評分標準:
+
+| 項目 | 配分 |
+| --- | --- |
+| 內容完整性 | 40 |
+| 表達能力 | 30 |
+| 互動與創意 | 30 |
+
+🔸影片建議：使用 PowerPoint、Canva、Final Cut Pro、Adobe Premiere 等工具編輯影片。可搭配動畫、範例、實作畫面來提高互動性。
+
+* result: 完整對話詳見[此連結](https://chatgpt.com/share/67c71de4-2910-8002-b839-ad170874833b)（對話的上半部是個人資訊的傳遞，可直接跳轉至下半部）
+
+![image](https://github.com/user-attachments/assets/8fe1ff77-4bbe-4f25-b08b-bc5b37228ddd)
 
 
-### 五、AI 推薦系統：” 我現在人在新北市國立臺北大學，請在網上尋找並推薦新北市的前五大美食, 包括店名, 電話與地址”
+### 五、AI 推薦系統
 
-* prompt: 
+* prompt: （目的是希望 GPT 針對我即將協辦的工作坊，提供潛在合作對象建議）
 
-* result: 完整對話詳見[此連結]()
+幫我在臺中找幾間可能可以借到場地的國小（條件：交通不要太偏僻，盡量是大眾運輸可以到的地方、有明確的聯絡窗口、收費不要太貴、國小五六年級生的數量50個以上）
+
+* result: 完整對話詳見[此連結](https://chatgpt.com/share/67c7215d-0174-8002-9346-6739c9ed6385)（對話的上半部是活動內容設計、最下面是細節調整，想觀看「推薦合作對象」的段落，可善加利用關鍵字搜尋（Ctrl+F），直接跳轉至中間）
+
+![image](https://github.com/user-attachments/assets/3bda0212-60fb-4acd-bc5a-84a670472577)
+
+### 挑戰題：提供 GPT 您的個人背景資料，請它幫您寫1份約1000字的自傳及生成您個人的求職履歷表, 中文及英文版。
 
 
