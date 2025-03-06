@@ -18,7 +18,9 @@
 
 ![image](https://github.com/user-attachments/assets/7ca251f1-6020-4c67-be94-93f7105a90b8)
 
-### 文章摘要與重點摘取
+---
+
+### 二、文章摘要與重點摘取
 
 * prompt:（目的是讓 GPT 針對一篇文章的每個段落都做獨立摘要）
   
@@ -36,12 +38,14 @@
 
 ![螢幕擷取畫面 2025-03-04 174320](https://github.com/user-attachments/assets/a02df845-4dd1-4901-8a4d-42456534c13b)
 
+---
+
 ### 三、自動生成社交媒體內容
 
 * prompt:（目的是幫助我之前協辦的活動撰寫宣傳文案）
 我要舉辦一個科技性質的活動，當天會請多位講者來進行分享、研討，或開設實作工作坊，請你根據以下文本，使用繁體中文幫當天的第一類主題「AI」，寫二段的行銷宣傳文案，第一段寫AI的介紹、第二段加入當天講者會提到的內容統整：
 
----
+"""
 
 我寫的AI簡介
 
@@ -53,42 +57,56 @@ LLM 發展漸趨成熟穩定，我相信下一個浪潮將透過 LLM 進行精�
 同樣地，Kotlin 生態發展也多了十分便捷的工具處理大數據及開發 GenAI 應用，這次分享會整合了 Kotlin 及 Gemma2 的優勢去快速建立下一代進階領域知識圖譜 GenAI 應用。
 
 講者2的議程主題與大綱說明
+
 【Understand LLM Security - From OWASP Perspective】
-As Large Language Models (LLMs) become more integrated into everyday applications，it’s essential to understand the security risks they bring along.
-This session will break down LLM security concerns using a “Top 10” approach inspired by OWASP，adapted specifically for the unique challenges of AI models. This isn’t about repurposing old tools—it’s about recognizing how the threat landscape shifts with AI and what can be done to stay ahead.
-We’ll start with a quick look at LLMs in action—covering their use in chatbots，automated content creation，and decision-support tools—and discuss why security often takes a backseat in AI development. The heart of the talk will be an exploration of the LLM Security Top 10，detailing major vulnerabilities like:
+
+As Large Language Models (LLMs) become more integrated into everyday applications, it’s essential to understand the security risks they bring along.
+This session will break down LLM security concerns using a “Top 10” approach inspired by OWASP, adapted specifically for the unique challenges of AI models. This isn’t about repurposing old tools—it’s about recognizing how the threat landscape shifts with AI and what can be done to stay ahead.
+We’ll start with a quick look at LLMs in action—covering their use in chatbots, automated content creation, and decision-support tools—and discuss why security often takes a backseat in AI development. The heart of the talk will be an exploration of the LLM Security Top 10, detailing major vulnerabilities like:
+
 1. Prompt Injection – Tricks that manipulate model responses by feeding it malicious prompts.
 2. Data Leakage – When models unintentionally expose sensitive information used in training.
 3. Model Inversion – Techniques that reconstruct private training data just from outputs.
 4. Adversarial Inputs – Crafted inputs that make the model produce incorrect or damaging results.
 5. Weak Access Controls – Situations where LLMs can be accessed or manipulated by unauthorized users.
 6. Model Theft – How adversaries can replicate or steal proprietary models.
-7. Bias and Fairness Risks – When models output biased or unfair responses，potentially causing harm.
+7. Bias and Fairness Risks – When models output biased or unfair responses, potentially causing harm.
 8. Poor Integrations – Security risks introduced by careless integrations with other software.
 9. Training Data Poisoning – When attackers manipulate training data to introduce vulnerabilities.
-10. Lack of Monitoring – Failure to monitor and log interactions，making it hard to catch attacks.
-For each topic，we’ll cover practical examples and attack scenarios，followed by straightforward recommendations to reduce risks，like prompt sanitization，data filtering，or adversarial testing. The goal isn’t to reinvent OWASP but to adapt its mindset for the AI era.
-We’ll end with best practices for integrating these security principles into your LLM projects，followed by a Q&A to explore any specific challenges or real-world cases attendees want to discuss. This talk is geared towards developers，security professionals，and anyone working with AI who wants to approach security in a practical，proactive way.
+10. Lack of Monitoring – Failure to monitor and log interactions, making it hard to catch attacks.
+
+For each topic, we’ll cover practical examples and attack scenarios, followed by straightforward recommendations to reduce risks, like prompt sanitization，data filtering, or adversarial testing. The goal isn’t to reinvent OWASP but to adapt its mindset for the AI era.
+We’ll end with best practices for integrating these security principles into your LLM projects, followed by a Q&A to explore any specific challenges or real-world cases attendees want to discuss. This talk is geared towards developers, security professionals, and anyone working with AI who wants to approach security in a practical, proactive way.
 
 講者3的議程主題與大綱說明
+
 【ShieldGemma、Gemma Scope、DataGemma與RIG】
+
 介紹最新Google在Gemma家族上的近況與應用方式，以及Google提出的RIG方法。包含ShieldGemma、Gemma Scope、DataGemma、RIG與RAG差異。
 
 講者4的議程主題與大綱說明
+
 【Build Safer Gen AI：Architecting with Responsible AI Toolkit】
+
 Generative AI offers incredible potential，but it also comes with risks. This session explores how to architect safer and more ethical GenAI systems by leveraging Google's Responsible AI Toolkit.
 We'll delve into practical techniques and architectural considerations for building GenAI applications that prioritize fairness，transparency，and user safety，while mitigating potential harms like bias and misinformation.
 Learn how to integrate the toolkit's components into your GenAI development pipeline to create responsible and trustworthy AI solutions.
 
 講者5的議程主題與大綱說明
+
 【使用 Keras 深度改造 Gemma 2】
+
 Gemma 2 是 Google 開源的輕量級大型語言模型，基於與 Gemini 相同的先進技術。本次演講將介紹如何使用 Keras 3 改造 Gemma，建造專屬領域應用。我們將探討 LoRA fine-tuning、使用 Control vectors 進行對話風格微調、平行化訓練，以及套用 Self-extend 修改模型架構以擴充 context length。本次演講將幫助開發者深入理解客製化大型語言模型（LLM）的實作流程，並展示如何簡單有效地使用 Keras 將 Gemma 改造為專業應用，同時實現負責任的人工智慧。
+
+"""
 
 Please write in Traditional Chinese language.
 
 * result: 完整對話詳見[此連結](https://chatgpt.com/share/67c6cdca-fdf8-8002-bda7-4442634a5018)
 
 ![螢幕擷取畫面 2025-03-04 175505](https://github.com/user-attachments/assets/88fc07ef-d290-47f7-87b6-696e5b86059c)
+
+---
 
 ### 四、影片腳本生成器
 
@@ -112,6 +130,7 @@ Please write in Traditional Chinese language.
 
 ![image](https://github.com/user-attachments/assets/8fe1ff77-4bbe-4f25-b08b-bc5b37228ddd)
 
+---
 
 ### 五、AI 推薦系統
 
@@ -123,6 +142,19 @@ Please write in Traditional Chinese language.
 
 ![image](https://github.com/user-attachments/assets/3bda0212-60fb-4acd-bc5a-84a670472577)
 
-### 挑戰題：提供 GPT 您的個人背景資料，請它幫您寫1份約1000字的自傳及生成您個人的求職履歷表, 中文及英文版。
+---
 
+### 六、挑戰題：提供 GPT 個人背景資料，請它寫 1 份約 1000 字的自傳，及生成個人求職履歷表（中文及英文版）。
 
+* prompt: 因內容冗長而暫時省略，完整對話詳見[此連結](https://chatgpt.com/share/67c96989-872c-8002-aeff-efdb472e8de1)
+
+* result:
+
+  * 自傳
+    ![image](https://github.com/user-attachments/assets/148533a2-41fd-4a0d-8c21-72802629dec2)
+
+  * 中文履歷
+    ![image](https://github.com/user-attachments/assets/635e4354-36d2-458a-8ce9-baa1d2c4cf30)
+
+  * 英文履歷
+    ![image](https://github.com/user-attachments/assets/5cc128d3-eac3-4a6d-8314-cb31ec4aea35)
