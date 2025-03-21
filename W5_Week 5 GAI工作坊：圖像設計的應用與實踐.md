@@ -1,6 +1,6 @@
 # W5 課程進度
 
-教材在此 >> [Week 5 GAI工作坊：圖像設計的應用與實踐](https://marmalade-freesia-605.notion.site/Week-4-GAI-Prompt-AI-1ad7643aed3c809785c7ffd3ea242d28](https://marmalade-freesia-605.notion.site/Week-5-GAI-1b47643aed3c802583dee44ef1595b86)
+教材在此 >> [Week 5 GAI工作坊：圖像設計的應用與實踐](https://marmalade-freesia-605.notion.site/Week-5-GAI-1b47643aed3c802583dee44ef1595b86)
 
 * Compare the images generated from different prompt to answer the questions below ↓↓
 
