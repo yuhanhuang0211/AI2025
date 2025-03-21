@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0201514-0fbd-4aec-9709-8b2695e71181)# W5 課程進度
+# W5 課程進度
 
 教材在此 >> [Week 5 GAI工作坊：圖像設計的應用與實踐](https://marmalade-freesia-605.notion.site/Week-4-GAI-Prompt-AI-1ad7643aed3c809785c7ffd3ea242d28](https://marmalade-freesia-605.notion.site/Week-5-GAI-1b47643aed3c802583dee44ef1595b86)
 
