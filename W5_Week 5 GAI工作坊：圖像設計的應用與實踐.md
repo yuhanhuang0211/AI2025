@@ -15,7 +15,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/c0bb6d8c-cd84-4d45-956b-4920f878425f)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（改變 prompt）**
 * prompt: 一隻邪惡的卡通狗，長眼睛、內斂的動作，充滿高深莫測和冷酷的表情。（目標：產出一隻看起來是反派的狗狗）
 * result:
   ![image](https://github.com/user-attachments/assets/214870e0-eed6-44f6-936d-667eadea9102)
@@ -24,11 +24,11 @@
 * question: 卡通角色的誇張特徵如何影響觀眾的情緒和角色塑造？請舉例說明，並探討如何微調特徵來改變角色的個性與情感表達。
 * answer: 
 
-  **影響情緒之舉例說明：**
+  **1. 影響情緒之舉例說明**
   - 大眼睛：常用來表達純真、無辜或興奮等情緒。像《冰雪奇緣》中的艾莎，她的眼睛較大，使她顯得柔弱且具親和力，增強了觀眾的情感投入。
-  - 過大或過小的身體比例**：這樣的特徵常用來表現角色的強大或脆弱。比如《超人總動員》中的超人，他的強壯身形讓人聯想到力量和英雄氣質，而反之，脆弱的角色則可以用較小或圓潤的形象來表現。
+  - 過大或過小的身體比例：這樣的特徵常用來表現角色的強大或脆弱。比如《超人總動員》中的超人，他的強壯身形讓人聯想到力量和英雄氣質，而反之，脆弱的角色則可以用較小或圓潤的形象來表現。
 
-  **微調特徵例子：**
+  **2. 微調特徵例子**
   - 改變眼睛的大小與形狀：大眼睛通常給人天真、無辜的印象，若縮小眼睛或改成鋭利的形狀，則可能讓角色看起來更冷酷、神秘或邪惡。
   - 嘴巴的大小與形狀：一個微笑的弧度或嘴巴的曲線可以顯示角色的友好或陰險。將嘴巴設計成尖銳或歪斜的形狀，會讓角色看起來更加狡猾或不安。
   - 臉部表情：誇張的表情，例如過度誇大的眉毛或嘴角上揚的笑容，能強化角色的情緒表達。調整這些細節可以從讓角色變得可愛、滑稽，甚至恐怖。
@@ -41,7 +41,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/18b4945c-29dd-4ef8-9a80-f9afad35ad1e)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（改變 prompt）**
 * prompt: 一位超級反派躲藏於城市，粗體線條和鮮艷色彩，具有美國DC漫畫風格。（目標：產出一名超級反派）
 * result:
   ![image](https://github.com/user-attachments/assets/beccf4ac-17b9-4bcb-b4c4-110420842b8a)
@@ -63,10 +63,10 @@
      - 高科技裝備：像是《鋼鐵人》的盔甲，它不僅是超能力的來源，也反映了角色的科技背景和個人主義，突顯出他依賴智慧和創造力來對抗敵人。
   
   **4. 例子對比：**
-     - 《超人》vs《蝙蝠俠》：
+     **(1)《超人》v.s.《蝙蝠俠》：**
        - 超人：明亮的藍色和紅色服裝強調了他作為光明英雄的角色，快速且高飛的動作表現出他的無敵力量和正義感。
        - 蝙蝠俠：黑色和灰色的服裝以及低調的動作（如影子中的潛行）則表現出其偏向獨立行動的反英雄形象，並且強調他的智慧、謀略和對正義的非傳統理解。
-     - 《閃電俠》vs《浩克》：
+     **(2)《閃電俠》v.s.《浩克》：**
        - 閃電俠：色彩明亮的紅色和金色、快速移動的姿勢強調了其速度和青春活力，反映出角色對速度和救援的執著。
        - 浩克：綠色皮膚和力量型服裝（如簡單的短褲）以及龐大的肌肉和強烈的力量感，展現了他情緒化和毀滅性的一面，強調了內心的不穩定和外表的巨大力量。
 
@@ -81,7 +81,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/57138d92-7985-4e91-807d-281f8d05b0a7)
  
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: 暴風雨即將來臨，暗雲密布，遠處的天空呈現深藍和灰色，隨著最後一絲陽光消失，光線變得黯淡。狂風呼嘯，樹木搖晃，黑色的天空映襯著強烈的紅色與橙色，暗示著暴風的襲來。（目標：產出下方問題與討論中，「黃昏的風暴」的想像畫面）
 * result:
  ![image](https://github.com/user-attachments/assets/d30ae2d9-eff2-44bd-bf67-be238ca8d470)
@@ -91,26 +91,30 @@
 * answer: 
   
   **1. 黎明的清晨**
-     - 提示語：「在柔和的晨光中，霧氣彌漫，輕微的光線從地平線升起，照亮寧靜的湖面，四周被淡粉色和金色的光芒包圍。溫暖的色調彷彿帶來一絲希望，柔和的光線使景象顯得清新與安詳。」
-     - 視覺變化：
+    **(1) 提示語設計：**
+          在柔和的晨光中，霧氣彌漫，輕微的光線從地平線升起，照亮寧靜的湖面，四周被淡粉色和金色的光芒包圍。溫暖的色調彷彿帶來一絲希望，柔和的光線使景象顯得清新與安詳。
+    **(2) 視覺變化：**
        - 光線：黎明的光線柔和且溫暖，常伴隨著金色或粉色的光暈，營造出清晨的清新感。
        - 天氣：霧氣或輕微的雲層，使得遠景模糊不清，帶有夢幻的質感。
        - 色調：暖色系，如金色、粉色、淡橙色，營造出寧靜和希望的情緒。
-     - 情感變化：
+    **(3) 情感變化：**
        - 情緒：這樣的設計給人一種安靜、平和和新生的感覺。清晨的霧氣和柔和光線象徵著新的開始、希望與潛力，令人感到放鬆並激發積極的情感。
        - 故事性：這個場景可以表現一個故事的開始，充滿潛力與未知的美好時光，象徵一個新的起點，或是情感的重生。
-     - 整體分析：使用柔和光線、霧氣和暖色調來創造一個希望、安詳的氛圍，強調新的開始或情感的重生。
+    **(4) 整體分析：**
+          使用柔和光線、霧氣和暖色調來創造一個希望、安詳的氛圍，強調新的開始或情感的重生。
 
   **2. 黃昏的風暴**
-     - 提示語：「暴風雨即將來臨，暗雲密布，遠處的天空呈現深藍和灰色，隨著最後一絲陽光消失，光線變得黯淡。狂風呼嘯，樹木搖晃，黑色的天空映襯著強烈的紅色與橙色，暗示著暴風的襲來。」
-     - 視覺變化：
+    **(1) 提示語設計：**
+          暴風雨即將來臨，暗雲密布，遠處的天空呈現深藍和灰色，隨著最後一絲陽光消失，光線變得黯淡。狂風呼嘯，樹木搖晃，黑色的天空映襯著強烈的紅色與橙色，暗示著暴風的襲來。
+    **(2) 視覺變化：**
        - 光線：黃昏時光線逐漸消失，光線偏向陰暗或完全消失，並且接近暴風雨來臨前的陰鬱感。
        - 天氣：暴風雨的雲層使整個畫面顯得陰沉，狂風與風暴的視覺效果強烈，通常會有波動的樹木、飛揚的灰塵等。
        - 色調：冷色系與鮮艷的暖色對比（如紅色、橙色與深藍色、灰色），這樣的色調帶來強烈的情感衝擊，暗示著危險與不安。
-     - 情感變化：
+    **(3) 情感變化：**
        - 情緒：這個場景給人一種緊張、焦慮與不安的感覺。暴風雨的逼近和陰沉的色調讓觀眾感到壓迫與不穩，暗示著危機或衝突的臨近。
        - 故事性：這個畫面可以表達故事中的轉折點或高潮，代表著混亂、衝突或挑戰的來臨，也可能預示著某種災難性事件的發生，強化劇情的張力。
-     - 整體分析：利用黯淡光線、風暴雲層與冷暖對比的色調來表現緊張與危險，創造出衝突和危機的情感氛圍。
+    **(4) 整體分析：**
+          利用黯淡光線、風暴雲層與冷暖對比的色調來表現緊張與危險，創造出衝突和危機的情感氛圍。
 
 
 ### Lab 4: 現代城市夜景
@@ -120,8 +124,8 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/6a06d9a9-0759-46b6-8f39-63ee6ca7536a)
 
-**2. 第二次嘗試（微調 prompt）**
-* prompt: 在寧靜的住宅區，燈光以暖色系為主，微弱的燈光從每扇窗戶中透出，營造出舒適與放鬆的氛圍。街道燈是柔和的黃光，與夜空相呼應，整個區域似乎被安撫，讓人覺得時間放慢了。（目標：產出下方問題與討論中，「安靜住宅區」的想像畫面-2）
+**2. 第二次嘗試（重新設計 prompt）**
+* prompt: 在寧靜的住宅區，燈光以暖色系為主，微弱的燈光從每扇窗戶中透出，營造出舒適與放鬆的氛圍。街道燈是柔和的黃光，與夜空相呼應，整個區域似乎被安撫，讓人覺得時間放慢了。（目標：產出下方問題與討論中，「安靜住宅區」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/01b28e5a-165f-446e-8d4e-8dfd84897f1d)
 
@@ -129,15 +133,11 @@
 * question: 在不同的都市場景（如繁華商業區與安靜住宅區）中，如何透過燈光與色調的變化來傳達不同的氣氛？請設計對比性的提示語來探討這一概念。
 * answer: 
 
-  **1. 繁華商業區**
-    - 提示語1：「亮眼的霓虹燈閃爍，橙紅色與冷藍色交織，營造出充滿活力與動感的城市節奏。四周的燈光照亮人們急促的步伐，強烈的光影對比讓整個環境充滿現代都市的熱鬧與不斷變化。」
-    - 提示語2：「商業區的燈光以冷色調為主，鋼鐵般的藍色與白光冷冽地流動，讓人感受到這裡的冷靜與高效。霓虹燈和廣告牌的光線偶爾刺眼地閃爍，提醒著一切都在無休止的運轉。」
+  **1. 繁華商業區：**
+    亮眼的霓虹燈閃爍，橙紅色與冷藍色交織，營造出充滿活力與動感的城市節奏。四周的燈光照亮人們急促的步伐，強烈的光影對比讓整個環境充滿現代都市的熱鬧與不斷變化。
 
-  **2. 安靜住宅區**
-    - 提示語1：「溫暖的黃色燈光透過窗戶輕輕灑落，柔和的光暈為街道增添一絲寧靜。夜晚的燈光並不刺眼，反而是金色與柔和的白色交織，讓人感覺平和與安心。」
-    - 提示語2：「在寧靜的住宅區，燈光以暖色系為主，微弱的燈光從每扇窗戶中透出，營造出舒適與放鬆的氛圍。街道燈是柔和的黃光，與夜空相呼應，整個區域似乎被安撫，讓人覺得時間放慢了。」
-
-  **總結分析：** 這樣的對比強調了燈光和色調在塑造都市氣氛中的重要性。商業區的強烈對比和活力充斥著動態，而住宅區的柔和燈光則營造出一種平靜、安寧的氛圍。
+  **2. 安靜住宅區：**
+    在寧靜的住宅區，燈光以暖色系為主，微弱的燈光從每扇窗戶中透出，營造出舒適與放鬆的氛圍。街道燈是柔和的黃光，與夜空相呼應，整個區域似乎被安撫，讓人覺得時間放慢了。
 
 ---
 
@@ -150,7 +150,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/c6da7048-938f-4042-9cda-e8e94b15dd75)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: 透過精細的筆觸，景物的每一個細節都清晰可見。陽光照射在樹葉上，光影的變化被捕捉得栩栩如生。每一條光線的折射與反射，讓畫面呈現出真實、具體的視覺效果。遠處的山脈和湖面都有清晰的輪廓，讓觀者感覺彷彿置身其中，感受到大自然的真實與宏偉。（目標：產出下方問題與討論中，「寫實風景畫」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/53a258d8-5fbe-463c-a4f0-8853a14e81a1)
@@ -159,13 +159,13 @@
 * question: 與寫實風景相比，印象派如何透過光影的模糊處理來影響觀者的視覺感受？請設計兩個不同風格的提示語，並比較它們的影像效果。
 * answer: 
 
-  **1. 視覺感受的影響與比較**
-    - 印象派：以獨特的光影處理和模糊的細節捕捉氛圍和感覺，使畫面顯得更加夢幻、動感，強調色彩、光線和運動的瞬間變化，色彩的運用和筆觸的疏離引發觀者對情緒與光影的感知，進而感受到情感的共鳴，而非具體的現實世界。
-    - 寫實風景畫：以精確細節呈現風景的細緻樣貌，讓觀者能夠清楚地辨識每一個物體和光源的具體位置。畫面感強烈，帶有真實世界的立體感。
+  **1. 提示語設計**
+    - 印象派：光線如同碎片般散布在畫布上，樹葉的輪廓被柔和地模糊，湖面泛起的微光也僅是暈染的色塊。筆觸不再尋求精確，而是捕捉光線的瞬間變化與情感波動。景物在光影之間若隱若現，模糊的邊緣營造出一種流動感，讓整體畫面充滿了活力和情感，而非具體的形狀與細節。
+    - 寫實風景：透過精細的筆觸，景物的每一個細節都清晰可見。陽光照射在樹葉上，光影的變化被捕捉得栩栩如生。每一條光線的折射與反射，讓畫面呈現出真實、具體的視覺效果。遠處的山脈和湖面都有清晰的輪廓，讓觀者感覺彷彿置身其中，感受到大自然的真實與宏偉。
 
-  **2. 提示語設計**
-    - 寫實風景畫：「透過精細的筆觸，景物的每一個細節都清晰可見。陽光照射在樹葉上，光影的變化被捕捉得栩栩如生。每一條光線的折射與反射，讓畫面呈現出真實、具體的視覺效果。遠處的山脈和湖面都有清晰的輪廓，讓觀者感覺彷彿置身其中，感受到大自然的真實與宏偉。」
-    - 印象派風景：「光線如同碎片般散布在畫布上，樹葉的輪廓被柔和地模糊，湖面泛起的微光也僅是暈染的色塊。筆觸不再尋求精確，而是捕捉光線的瞬間變化與情感波動。景物在光影之間若隱若現，模糊的邊緣營造出一種流動感，讓整體畫面充滿了活力和情感，而非具體的形狀與細節。」
+  **2. 視覺感受的影響與比較**
+    - 印象派：以獨特的光影處理和模糊的細節捕捉氛圍和感覺，使畫面顯得更加夢幻、動感，強調色彩、光線和運動的瞬間變化，色彩的運用和筆觸的疏離引發觀者對情緒與光影的感知，進而感受到情感的共鳴，而非具體的現實世界。
+    - 寫實風景：以精確細節呈現風景的細緻樣貌，讓觀者能夠清楚地辨識每一個物體和光源的具體位置。畫面感強烈，帶有真實世界的立體感。
 
 
 ### Lab 6: 表現主義肖像
@@ -175,7 +175,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/d897928a-1265-4a34-85b8-6805a884e8fa)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A portrait of a solitary young woman gazing downward, painted in cold, muted blue and gray tones, with soft, blurred brushstrokes and minimal lighting, evoking a sense of sadness and introspection. The background is empty and misty.（目標：產出下方問題與討論中，「悲傷與孤獨」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/075f8067-0f1c-462e-9918-66bfdec1e3ab)
@@ -185,35 +185,28 @@
 * answer:
 
   **1. 情緒一：悲傷與孤獨**
-    (1) 提示語：A portrait of a solitary young woman gazing downward, painted in cold, muted blue and gray tones, with soft, blurred brushstrokes and minimal lighting, evoking a sense of sadness and introspection. The background is empty and misty.
-    (2) 視覺特徵：
+    **(1) 提示語設計：**
+          A portrait of a solitary young woman gazing downward, painted in cold, muted blue and gray tones, with soft, blurred brushstrokes and minimal lighting, evoking a sense of sadness and introspection. The background is empty and misty.
+    **(2) 視覺特徵：**
       - 色調：冷色系（藍色、灰色）代表憂鬱、孤寂。  
       - 明暗：暗調，低對比，產生壓抑感。  
       - 筆觸：柔和、模糊，像是朦朧的記憶，減少畫面清晰度。
-    (3) 心理影響：
+    **(3) 心理影響：**
       - 觀者會被引導進入安靜、沉思的氛圍。  
       - 模糊處理降低與人物的直接連結，增強情緒上的距離感。  
       - 冷色調讓人產生共鳴與同理心，感受到畫中人的內心世界。
 
   **2. 情緒二：喜悅與活力**
-    (1) 提示語：A vibrant portrait of a smiling boy with bright sunlight illuminating his face, painted in warm yellow, orange, and pink tones, using energetic, expressive brushstrokes. The background is filled with light and motion, resembling a sunny park
-    (2) 視覺特徵：
+    **(1) 提示語設計：**
+        A vibrant portrait of a smiling boy with bright sunlight illuminating his face, painted in warm yellow, orange, and pink tones, using energetic, expressive brushstrokes. The background is filled with light and motion, resembling a sunny park
+    **(2) 視覺特徵：**
       - 色調：暖色系（黃色、橘色、粉紅）給人開朗與希望感。  
       - 明暗：明亮高對比，使畫面充滿生命力。  
       - 筆觸：快速、跳動感強，傳遞快樂與活力。
-    (3) 心理影響：
+    **(3) 心理影響：**
       - 顏色刺激視覺神經，引發正面情緒。  
       - 明亮光源與生動筆觸讓觀者產生參與感與活力共鳴。  
       - 親近感提升，讓人想與畫中人物「互動」。
-
-  **3. 總結對照：**
-    | 元素       | 悲傷與孤獨                        | 喜悅與活力                          |
-    |------------|-----------------------------------|--------------------------------------|
-    | 色調       | 冷色、灰藍                         | 暖色、黃橘粉                         |
-    | 明暗對比   | 暗淡、低對比                       | 明亮、高對比                         |
-    | 筆觸       | 柔和、模糊                         | 活潑、奔放                           |
-    | 背景氛圍   | 空曠、霧氣                         | 活潑、自然                           |
-    | 心理感受   | 沉靜、內省、距離感                 | 溫暖、親切、參與感                   |
 
 ---
 
@@ -226,7 +219,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/35af1c5d-b052-4ba7-8f5e-6ab4804cec77)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A geometric abstract composition filled with dynamic triangles and radiant arcs in vibrant shades of red, orange, and golden yellow. The layout is asymmetrical, with overlapping shapes and energetic lines creating a sense of motion, excitement, and warmth.（目標：產出下方問題與討論中，「暖色調 – 動感與熱情」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/83452e10-2a4f-4466-b3a9-57f1ada2eb91)
@@ -235,29 +228,11 @@
 * question: 幾何抽象藝術如何影響視覺節奏與觀者的情緒？請設計一個基於冷色調與一個基於暖色調的提示語，並比較它們的視覺效果。
 * answer: 
 
-  **1. 提示語一：冷色調 – 平靜與秩序**
-    **(1) 提示語設計：** A geometric abstract artwork composed of overlapping rectangles and circles in cool tones of navy blue, teal, and soft lavender. The composition is grid-based, symmetrical, with smooth gradients and sharp clean edges, evoking a sense of calm, logic, and introspection.
-    **(2) 視覺效果：**
-      - 色彩：深藍與藍綠營造安定與冷靜感。  
-      - 結構：藉由「格狀排列與對稱構圖」創造視覺節奏與秩序。  
-      - 邊緣：乾淨銳利，強調理性與距離。
-    **(3) 情緒影響：**
-      - 引導觀者進入一種「冥想或思考」的狀態。  
-      - 結構性與冷色搭配降低情緒波動，給人專注與冷靜感。  
-      - 適合用於科技、建築、現代主義背景。
+  **1. 提示語設計**
+    (1) 冷色調 – 平靜與秩序：A geometric abstract artwork composed of overlapping rectangles and circles in cool tones of navy blue, teal, and soft lavender. The composition is grid-based, symmetrical, with smooth gradients and sharp clean edges, evoking a sense of calm, logic, and introspection.
+    (2) 暖色調 – 動感與熱情：A geometric abstract composition filled with dynamic triangles and radiant arcs in vibrant shades of red, orange, and golden yellow. The layout is asymmetrical, with overlapping shapes and energetic lines creating a sense of motion, excitement, and warmth.
 
-  **2. 提示語二：暖色調 – 動感與熱情**
-    **(1) 提示語設計：** A geometric abstract composition filled with dynamic triangles and radiant arcs in vibrant shades of red, orange, and golden yellow. The layout is asymmetrical, with overlapping shapes and energetic lines creating a sense of motion, excitement, and warmth.
-    **(2) 視覺效果：**
-      - 色彩：紅與橘色具有強烈視覺吸引力，象徵活力與熱情。  
-      - 結構：透過「非對稱排列與交錯線條」打破規則，營造節奏與動感。  
-      - 邊緣：可能略為粗糙，增加原始能量感。
-    **(3) 情緒影響：**
-      - 令人感到**興奮、好奇與行動慾望**。  
-      - 不規則幾何搭配高飽和色調，刺激感官與注意力。  
-      - 常見於宣傳、品牌識別、活動設計等領域。
-
-  **3. 視覺與情緒比較總結：**
+  **2. 視覺效果與情緒比較**
     | 項目             | 冷色幾何抽象                            | 暖色幾何抽象                            |
     |------------------|----------------------------------------|-----------------------------------------|
     | 色調             | 藍、綠、紫等冷色                       | 紅、橘、黃等暖色                        |
@@ -277,7 +252,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/7c728584-a679-418f-8273-073bc2f0af03)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A realistic portrait of a 19th-century middle-class merchant standing beside a wooden desk, wearing a modest but finely tailored dark wool suit, with a brass pocket watch and leather-bound ledger. The lighting is soft and directional, highlighting his focused expression and slightly worn hands, set against a neutral, shadowed background.（目標：產出下方問題與討論中，「中產階級商人」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/80fe4a1a-e017-4377-ab79-c77da2aaf302)
@@ -327,7 +302,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/301e56af-a056-4b9d-ac46-c97eeb5ac533)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A minimalist modern building captured at sunrise, with soft golden light casting long, delicate shadows across its clean concrete facade. The early morning mist lingers near the base, and the windows subtly reflect the pale blue sky. The scene is calm and serene, highlighting the building’s geometric precision and harmony with nature.（目標：產出下方問題與討論中，「清晨 — 清新與秩序感」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/94f1830c-71e6-496e-8c7f-d9633d14ff93)
@@ -378,7 +353,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/8a9f49ad-5283-40ad-9276-77e73e32b3fe)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A mythological scene beneath a star-filled sky, where a cloaked goddess stands at the edge of a moonlit lake, holding a glowing staff. The shadows of ancient spirits swirl behind her, and a dim blue aura surrounds the trees. Her movements are slow and deliberate, invoking a powerful ancient spell. The scene is quiet, mystical, and filled with cosmic tension.（目標：產出下方問題與討論中，「夜晚場景：命運與神祕感」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/91b74b17-a709-4434-9a36-cca75bc6b81b)
@@ -487,7 +462,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/53dea163-1ff7-433b-bf72-08443456b1a5)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A graceful, deer-like creature with feathers instead of fur. Its skin is matte and opalescent, shifting between soft pink, gold, and lavender as the light hits it. Each feather has tiny veins of bioluminescence, pulsing like slow heartbeat rhythms. Its antlers are semi-transparent crystal, refracting sunlight into rainbow halos as it moves through a misty forest.（目標：產出下方問題與討論中，「晨曦羽獸」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/3b11d537-6c91-4a1f-83e0-f2e282f4dcee)
@@ -542,7 +517,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/082879a5-2dc9-4d46-8b06-f7df6ef8d86c)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A panoramic view of a far-future city under a starlit sky. Towering structures of fluid, organic geometry rise from floating platforms. The architecture glows with bioluminescent materials, constantly shifting color based on energy flow. Transparent skyways connect habitats in mid-air, and humanoid robots mingle seamlessly with augmented humans. The horizon is dotted with interplanetary portals and floating AI nodes emitting holographic data.（目標：產出下方問題與討論中，「遠未來都市（2200 年以後）」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/43492467-51ae-4cef-8802-1b7eb5251f29)
@@ -680,7 +655,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/96fb8763-f244-4c98-84a8-20cb8cac9991)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A thick, oppressive fog blankets the deserted streets, with faint streetlights casting dim, yellow halos through the mist. Shadows stretch long and uncertain, with the outlines of buildings barely visible through the haze. The world feels closed in, the air damp and heavy, as if holding secrets. The sound of distant footsteps echoes eerily, but the fog muffles everything else, creating a sense of isolation and unease. The moon, half-obscured by the mist, casts an ethereal glow that adds to the ominous mood.（目標：產出下方問題與討論中，「夜晚霧氣場景」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/f71fafdb-604f-495a-8e2f-a1ec48ca78bb)
@@ -712,7 +687,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/d30d0f70-1946-4e31-842a-caad8174a51c)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: A quiet, serene morning after the rain. The city streets glisten with fresh droplets, reflecting the soft hues of the early sun. Wet pavement creates pools of light, with the glow of street lamps gently fading into the dawn. The air is crisp, with a hint of earthy freshness, and the streets, once bustling, are now calm and almost empty. The mist from the rain lingers in the air, giving the scene a hazy, dreamlike quality. The world feels peaceful, as if the rain has washed away the noise and left behind a clean slate.（目標：產出下方問題與討論中，「清晨雨後場景」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/730ea534-c81f-43e7-85ff-5a2a2ea70511)
@@ -749,7 +724,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/1353805c-15c9-415f-90db-ba304e9a4c10)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: As the sun sets over the bustling city, golden light spills across the towering skyscrapers, casting long shadows onto the crowded streets below. The sky is a soft gradient of orange and pink, while the city's lights begin to flicker on, adding their cool, artificial glow to the warm natural light. People move quickly through the streets, but the golden hour gives the scene a brief moment of serenity. The contrast between the fading sunlight and the rising city lights creates a dynamic, yet peaceful urban landscape, full of energy but tinged with a quiet warmth.（目標：產出下方問題與討論中，「繁忙都市黃昏場警」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/b8fe2b66-eb96-4c00-855f-0bc2ff261421)
@@ -851,7 +826,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/f411c1e1-bc00-43e7-a348-cf7cedaa0718)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: Design a dynamic and playful logo for a video game company. The logo should incorporate fluid, organic shapes like curves or abstract forms to evoke creativity and excitement. Use vibrant, bold colors such as bright oranges, purples, or greens to reflect energy, innovation, and fun. The font should be modern and dynamic, perhaps incorporating elements that look futuristic or fantastical, to capture the sense of adventure and excitement in gaming.（目標：產出下方問題與討0論中，「遊戲公司 Logo」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/fdcbe224-ba7a-4a41-9d19-ae52687a7c2a)
@@ -889,7 +864,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/a2cd3ca9-ab8b-4ce1-be6b-503498e81a07)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: Design an eye-catching advertisement with bold, high-contrast colors. Use a combination of vibrant red and deep black, with white text for the call-to-action. The composition should be dynamic, with large, attention-grabbing text positioned prominently at the center. The layout should be minimalistic, with the focus on the product image. This design should evoke a sense of urgency, excitement, and boldness, capturing the viewer’s immediate attention.（目標：產出下方問題與討論中，「高對比色彩廣告」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/6b8f3816-d544-4855-ad86-39dd96028728)
@@ -962,7 +937,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/91f4e6ff-4eaa-4253-a83c-2d61d7f5c9e7)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: 在未來都市的高科技天際線下，一座古老的中世紀城堡矗立其間，城堡的石牆被霓虹燈光照亮，拱門和塔樓上閃爍著電子屏幕。城市的飛行車穿梭於古老的街道之上，鋼鐵和玻璃的結構與中世紀的石砌建築交織在一起，表現出一種古老與現代、傳統與未來的對話。（目標：產出下方問題與討論中，「未來都市 + 中世紀」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/a81c662d-fbae-4748-b46e-494d4d73deda)
@@ -993,7 +968,7 @@
 * result: 
   ![image](https://github.com/user-attachments/assets/acd21ab9-775d-4552-9f2a-a8e6a67dddbc)
 
-**2. 第二次嘗試（微調 prompt）**
+**2. 第二次嘗試（重新設計 prompt）**
 * prompt: 為一家高端科技品牌設計一整套品牌視覺，包括企業 Logo、產品包裝與社交媒體宣傳圖，圖像需融合簡潔和專業感，並展現專業、精確和未來感的核心精神，以黑色、銀色和深藍色作為主色調，輔助色使用金屬光澤感的藍或白色。（目標：產出下方問題與討論中，「高端科技品牌視覺方案」的想像畫面）
 * result:
   ![image](https://github.com/user-attachments/assets/c4d8c8d7-2f21-4a47-9fce-c2cde3c91792)
