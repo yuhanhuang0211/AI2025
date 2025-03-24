@@ -89,12 +89,12 @@
  ![image](https://github.com/user-attachments/assets/d30ae2d9-eff2-44bd-bf67-be238ca8d470)
 
 **3. 問題與討論**
-* question: 如何通過調整光線、天氣與色調來影響風景畫面的情緒與故事性？請設計兩個不同時間段的提示語，並分析其視覺與情感上的變化。
+* question: 如何通過調整光線、天氣與色調來影響風景畫面的情緒與故事性？請設計兩個不同時間段的指令，並分析其視覺與情感上的變化。
 * answer: 
   
   **1. 黎明的清晨**
 
-    - 提示語設計：在柔和的晨光中，霧氣彌漫，輕微的光線從地平線升起，照亮寧靜的湖面，四周被淡粉色和金色的光芒包圍。溫暖的色調彷彿帶來一絲希望，柔和的光線使景象顯得清新與安詳。
+    - 指令設計：在柔和的晨光中，霧氣彌漫，輕微的光線從地平線升起，照亮寧靜的湖面，四周被淡粉色和金色的光芒包圍。溫暖的色調彷彿帶來一絲希望，柔和的光線使景象顯得清新與安詳。
     
     - 視覺變化
       - 光線：黎明的光線柔和且溫暖，常伴隨著金色或粉色的光暈，營造出清晨的清新感。
@@ -109,7 +109,7 @@
 
   **2. 黃昏的風暴**
 
-    - 提示語設計：暴風雨即將來臨，暗雲密布，遠處的天空呈現深藍和灰色，隨著最後一絲陽光消失，光線變得黯淡。狂風呼嘯，樹木搖晃，黑色的天空映襯著強烈的紅色與橙色，暗示著暴風的襲來。
+    - 指令設計：暴風雨即將來臨，暗雲密布，遠處的天空呈現深藍和灰色，隨著最後一絲陽光消失，光線變得黯淡。狂風呼嘯，樹木搖晃，黑色的天空映襯著強烈的紅色與橙色，暗示著暴風的襲來。
   
     - 視覺變化
       - 光線：黃昏時光線逐漸消失，光線偏向陰暗或完全消失，並且接近暴風雨來臨前的陰鬱感。
@@ -136,7 +136,7 @@
   ![image](https://github.com/user-attachments/assets/01b28e5a-165f-446e-8d4e-8dfd84897f1d)
 
 **3. 問題與討論**
-* question: 在不同的都市場景（如繁華商業區與安靜住宅區）中，如何透過燈光與色調的變化來傳達不同的氣氛？請設計對比性的提示語來探討這一概念。
+* question: 在不同的都市場景（如繁華商業區與安靜住宅區）中，如何透過燈光與色調的變化來傳達不同的氣氛？請設計對比性的指令來探討這一概念。
 * answer: 
 
   1. 繁華商業區：亮眼的霓虹燈閃爍，橙紅色與冷藍色交織，營造出充滿活力與動感的城市節奏。四周的燈光照亮人們急促的步伐，強烈的光影對比讓整個環境充滿現代都市的熱鬧與不斷變化。
@@ -160,10 +160,10 @@
   ![image](https://github.com/user-attachments/assets/53a258d8-5fbe-463c-a4f0-8853a14e81a1)
 
 **3. 問題與討論**
-* question: 與寫實風景相比，印象派如何透過光影的模糊處理來影響觀者的視覺感受？請設計兩個不同風格的提示語，並比較它們的影像效果。
+* question: 與寫實風景相比，印象派如何透過光影的模糊處理來影響觀者的視覺感受？請設計兩個不同風格的指令，並比較它們的影像效果。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 印象派：光線如同碎片般散布在畫布上，樹葉的輪廓被柔和地模糊，湖面泛起的微光也僅是暈染的色塊。筆觸不再尋求精確，而是捕捉光線的瞬間變化與情感波動。景物在光影之間若隱若現，模糊的邊緣營造出一種流動感，讓整體畫面充滿了活力和情感，而非具體的形狀與細節。
     - 寫實風景：透過精細的筆觸，景物的每一個細節都清晰可見。陽光照射在樹葉上，光影的變化被捕捉得栩栩如生。每一條光線的折射與反射，讓畫面呈現出真實、具體的視覺效果。遠處的山脈和湖面都有清晰的輪廓，讓觀者感覺彷彿置身其中，感受到大自然的真實與宏偉。
 
@@ -185,12 +185,12 @@
   ![image](https://github.com/user-attachments/assets/075f8067-0f1c-462e-9918-66bfdec1e3ab)
 
 **3. 問題與討論**
-* question: 如何調整肖像中的色調與筆觸來表達不同的情緒？請設計兩種不同情緒的提示語，並分析其視覺與心理影響。
+* question: 如何調整肖像中的色調與筆觸來表達不同的情緒？請設計兩種不同情緒的指令，並分析其視覺與心理影響。
 * answer:
 
   **1. 情緒一：悲傷與孤獨**
 
-    - 提示語設計：A portrait of a solitary young woman gazing downward, painted in cold, muted blue and gray tones, with soft, blurred brushstrokes and minimal lighting, evoking a sense of sadness and introspection. The background is empty and misty.
+    - 指令設計：A portrait of a solitary young woman gazing downward, painted in cold, muted blue and gray tones, with soft, blurred brushstrokes and minimal lighting, evoking a sense of sadness and introspection. The background is empty and misty.
 
     - 視覺特徵
       - 色調：冷色系（藍色、灰色）代表憂鬱、孤寂。  
@@ -204,7 +204,7 @@
 
   **2. 情緒二：喜悅與活力**
 
-    - 提示語設計：A vibrant portrait of a smiling boy with bright sunlight illuminating his face, painted in warm yellow, orange, and pink tones, using energetic, expressive brushstrokes. The background is filled with light and motion, resembling a sunny park
+    - 指令設計：A vibrant portrait of a smiling boy with bright sunlight illuminating his face, painted in warm yellow, orange, and pink tones, using energetic, expressive brushstrokes. The background is filled with light and motion, resembling a sunny park
 
     - 視覺特徵
       - 色調：暖色系（黃色、橘色、粉紅）給人開朗與希望感。  
@@ -233,10 +233,10 @@
   ![image](https://github.com/user-attachments/assets/83452e10-2a4f-4466-b3a9-57f1ada2eb91)
 
 **3. 問題與討論**
-* question: 幾何抽象藝術如何影響視覺節奏與觀者的情緒？請設計一個基於冷色調與一個基於暖色調的提示語，並比較它們的視覺效果。
+* question: 幾何抽象藝術如何影響視覺節奏與觀者的情緒？請設計一個基於冷色調與一個基於暖色調的指令，並比較它們的視覺效果。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
   
     - 冷色調（平靜與秩序）：A geometric abstract artwork composed of overlapping rectangles and circles in cool tones of navy blue, teal, and soft lavender. The composition is grid-based, symmetrical, with smooth gradients and sharp clean edges, evoking a sense of calm, logic, and introspection.
     - 暖色調（動感與熱情）：A geometric abstract composition filled with dynamic triangles and radiant arcs in vibrant shades of red, orange, and golden yellow. The layout is asymmetrical, with overlapping shapes and energetic lines creating a sense of motion, excitement, and warmth.
@@ -267,10 +267,10 @@
   ![image](https://github.com/user-attachments/assets/80fe4a1a-e017-4377-ab79-c77da2aaf302)
 
 **3. 問題與討論**
-* question: 如何通過光影與服裝細節來傳遞人物的社會地位與個性？請設計一個中產階級商人和一個皇室成員的提示語，並比較它們的視覺風格差異。
+* question: 如何通過光影與服裝細節來傳遞人物的社會地位與個性？請設計一個中產階級商人和一個皇室成員的指令，並比較它們的視覺風格差異。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 中產階級商人：A realistic portrait of a 19th-century middle-class merchant standing beside a wooden desk, wearing a modest but finely tailored dark wool suit, with a brass pocket watch and leather-bound ledger. The lighting is soft and directional, highlighting his focused expression and slightly worn hands, set against a neutral, shadowed background.
     - 皇室成員：A regal portrait of a royal figure seated on a gilded throne, wearing an opulent velvet robe embroidered with gold threads and encrusted with jewels. The subject is illuminated by dramatic, high-contrast lighting, casting long shadows on a grand interior with marble columns and crimson drapery. A jeweled crown and scepter rest nearby.
 
@@ -297,12 +297,12 @@
   ![image](https://github.com/user-attachments/assets/94f1830c-71e6-496e-8c7f-d9633d14ff93)
 
 **3. 問題與討論**
-* question: 在描述建築結構時，如何運用不同的光影效果來影響其視覺衝擊力？請設計兩個不同時間（清晨與黃昏）的提示語，並分析建築外觀的變化。
+* question: 在描述建築結構時，如何運用不同的光影效果來影響其視覺衝擊力？請設計兩個不同時間（清晨與黃昏）的指令，並分析建築外觀的變化。
 * answer: 
 
-  **1. 提示語一：清晨 — 清新與秩序感**
+  **1. 指令一：清晨 — 清新與秩序感**
 
-    - 提示語設計：A minimalist modern building captured at sunrise, with soft golden light casting long, delicate shadows across its clean concrete facade. The early morning mist lingers near the base, and the windows subtly reflect the pale blue sky. The scene is calm and serene, highlighting the building’s geometric precision and harmony with nature.
+    - 指令設計：A minimalist modern building captured at sunrise, with soft golden light casting long, delicate shadows across its clean concrete facade. The early morning mist lingers near the base, and the windows subtly reflect the pale blue sky. The scene is calm and serene, highlighting the building’s geometric precision and harmony with nature.
 
     - 視覺與情緒效果
 
@@ -316,9 +316,9 @@
 
       - 氛圍：寧靜、有希望感、啟動一天的節奏。
 
-   **2. 提示語二：黃昏 — 戲劇與張力感**
+   **2. 指令二：黃昏 — 戲劇與張力感**
 
-    - 提示語設計：A contemporary skyscraper at sunset, bathed in vivid orange and crimson light. The low sun creates sharp, dramatic shadows across the glass and steel surfaces, with bold contrasts between illuminated and shaded sections. The sky is painted with intense warm hues, enhancing the vertical lines and dynamic angles of the structure.
+    - 指令設計：A contemporary skyscraper at sunset, bathed in vivid orange and crimson light. The low sun creates sharp, dramatic shadows across the glass and steel surfaces, with bold contrasts between illuminated and shaded sections. The sky is painted with intense warm hues, enhancing the vertical lines and dynamic angles of the structure.
 
     - 視覺與情緒效果
       
@@ -349,10 +349,10 @@
   ![image](https://github.com/user-attachments/assets/91b74b17-a709-4434-9a36-cca75bc6b81b)
 
 **3. 問題與討論**
-* question: 如何透過提示語調整光影與角色動作，使神話場景更具史詩感？請設計一個白天場景與一個夜晚場景，並比較其效果。
+* question: 如何透過指令調整光影與角色動作，使神話場景更具史詩感？請設計一個白天場景與一個夜晚場景，並比較其效果。
 * answer: 
   
-  **1. 提示語設計**
+  **1. 指令設計**
     - 白天場景（榮耀與凱旋感）：A mythological battle scene under a radiant midday sun, featuring a heroic warrior standing atop a rocky cliff, sword raised to the sky as golden light streams down from above. Behind him, colossal statues of ancient gods tower in the distance. His cape flutters in the wind, and the ground glows with divine energy. The atmosphere is triumphant and divine.
     - 夜晚場景（命運與神祕感）：A mythological scene beneath a star-filled sky, where a cloaked goddess stands at the edge of a moonlit lake, holding a glowing staff. The shadows of ancient spirits swirl behind her, and a dim blue aura surrounds the trees. Her movements are slow and deliberate, invoking a powerful ancient spell. The scene is quiet, mystical, and filled with cosmic tension.
 
@@ -379,7 +379,7 @@
   ![image](https://github.com/user-attachments/assets/52b64266-045a-4e0d-82e7-09b8e794c73e)
 
 **3. 問題與討論**
-* question: 如何平衡超現實元素與視覺可讀性，使畫面既具有創意又不過於混亂？請設計兩個不同的超現實提示語，並分析其視覺效果與故事感。
+* question: 如何平衡超現實元素與視覺可讀性，使畫面既具有創意又不過於混亂？請設計兩個不同的超現實指令，並分析其視覺效果與故事感。
 * answer: 
 
   **1. 平衡原則：**
@@ -389,9 +389,9 @@
     | **不合邏輯的空間（如浮空、折疊）**     | 搭配熟悉物件作為視覺錨點（如門、臉）    |
     | **多重象徵、疊加場景**                 | 控制色調數量、分區構圖降低混亂感        |
   
-  **2. 提示語一：夢境邏輯中的孤獨（柔和超現實）**
+  **2. 指令一：夢境邏輯中的孤獨（柔和超現實）**
   
-    - 提示語設計：A lone figure with a clock for a face stands in the middle of a desert made of pages from old books. Surreal clouds shaped like hands float above, and a distant staircase ascends into the sky. The palette is soft and muted — beige, pale blue, and dusty rose — evoking a sense of nostalgia and quiet reflection.
+    - 指令設計：A lone figure with a clock for a face stands in the middle of a desert made of pages from old books. Surreal clouds shaped like hands float above, and a distant staircase ascends into the sky. The palette is soft and muted — beige, pale blue, and dusty rose — evoking a sense of nostalgia and quiet reflection.
   
     - 視覺與敘事分析
       - 超現實元素：人面時鐘（時間與身份混淆）、書頁沙漠（知識荒原）、雲朵手掌（不安或被看見的感覺）、通天階梯（逃避或超脫）。
@@ -401,9 +401,9 @@
         - 元素有邏輯順序（人物→背景→天空）。
       - 故事感：給人「被時間困住的靜默旅人」感覺，象徵迷失與反思。
 
-  **3. 提示語二：混沌之城（高密度奇幻）**
+  **3. 指令二：混沌之城（高密度奇幻）**
 
-    - 提示語設計：A floating city composed of upside-down buildings, giant eyes peering from alleyways, and trees growing through skyscrapers. The sky is a whirlpool of stars and ink, with flying fish swimming between neon signs. The scene is vibrant and chaotic, painted in saturated blues, oranges, and violets.
+    - 指令設計：A floating city composed of upside-down buildings, giant eyes peering from alleyways, and trees growing through skyscrapers. The sky is a whirlpool of stars and ink, with flying fish swimming between neon signs. The scene is vibrant and chaotic, painted in saturated blues, oranges, and violets.
 
     - 視覺與敘事分析
       - 超現實元素：顛倒建築（空間錯位）、巨眼巷弄（被監視感）、空中魚群與星空旋渦（宇宙與城市融合）。
@@ -430,7 +430,7 @@
 * question: 如何透過細節描述（如皮膚質感、發光特性）來強化奇幻生物的真實感？請設計兩種不同的奇幻生物，並比較它們的特徵差異。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 奇幻生物一（深淵鱗蛇，Abyss Serpent）：A massive aquatic serpent emerging from the midnight depths of the ocean. Its skin is slick and translucent, revealing faintly glowing blue veins beneath the surface. Barnacles and bioluminescent algae cling to its ridged scales. When it moves, its flesh ripples like oil in water, and its slit-pupiled eyes reflect light like obsidian. Mist rises from its breath as it hisses above the surface.
     - 奇幻生物二（晨曦羽獸，Luminara Fawn）：A graceful, deer-like creature with feathers instead of fur. Its skin is matte and opalescent, shifting between soft pink, gold, and lavender as the light hits it. Each feather has tiny veins of bioluminescence, pulsing like slow heartbeat rhythms. Its antlers are semi-transparent crystal, refracting sunlight into rainbow halos as it moves through a misty forest.
 
@@ -460,10 +460,10 @@
   ![image](https://github.com/user-attachments/assets/43492467-51ae-4cef-8802-1b7eb5251f29)
 
 **3. 問題與討論**
-* question: 未來都市的視覺設計如何反映社會科技進步？請設計兩個不同未來時代（近未來 v.s. 遠未來）的提示語，並分析它們的視覺差異。
+* question: 未來都市的視覺設計如何反映社會科技進步？請設計兩個不同未來時代（近未來 v.s. 遠未來）的指令，並分析它們的視覺差異。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 近未來都市（2040–2060 年）：A bustling near-future city at dusk, with sleek glass skyscrapers, vertical gardens climbing building facades, and drones hovering between traffic lanes. Digital billboards display multilingual ads, and autonomous vehicles glide silently on clean energy roads. Pedestrians wear smart clothing with embedded LED indicators. The sky glows with soft neon reflections and a faint orange sunset.
     - 遠未來都市（2200 年以後）：A panoramic view of a far-future city under a starlit sky. Towering structures of fluid, organic geometry rise from floating platforms. The architecture glows with bioluminescent materials, constantly shifting color based on energy flow. Transparent skyways connect habitats in mid-air, and humanoid robots mingle seamlessly with augmented humans. The horizon is dotted with interplanetary portals and floating AI nodes emitting holographic data.
 
@@ -509,13 +509,13 @@
 
   **2. 視覺應用範例**
     - 金屬風格的未來科技產品
-      - 提示語設計：A sleek, brushed titanium wrist device with embedded micro-lights along the edges, exuding a tactical, durable look. The dark matte surface reflects subtle ambient lighting, highlighting precision-milled seams and carbon-fiber inlays.
+      - 指令設計：A sleek, brushed titanium wrist device with embedded micro-lights along the edges, exuding a tactical, durable look. The dark matte surface reflects subtle ambient lighting, highlighting precision-milled seams and carbon-fiber inlays.
       - 效果分析
         - 強調「工程精度」、「戰術級設計」與「可靠耐用」。
         - 適合軍事科技、太空裝備、未來機甲類產品。
         - 運用磨砂與切角細節，創造出高實用感與權威感。
     - 玻璃風格的未來科技產品
-      - 提示語設計：A transparent, edge-to-edge glass tablet with softly glowing circuits flowing beneath the surface like neon rivers. The interface appears to float in mid-air, and the entire device emits a faint bluish aura as it hovers above a magnetic base.
+      - 指令設計：A transparent, edge-to-edge glass tablet with softly glowing circuits flowing beneath the surface like neon rivers. The interface appears to float in mid-air, and the entire device emits a faint bluish aura as it hovers above a magnetic base.
       - 效果分析
         - 傳達「智慧」、「靈動」、「次世代科技」形象。
         - 適合 AI 助理裝置、虛擬現實控制器、高端生物科技產品。
@@ -545,12 +545,12 @@
   ![image](https://github.com/user-attachments/assets/6036af0b-d1f7-4df7-8d99-c99e9fc593ed)
 
 **3. 問題與討論**
-* question: 全景風景如何透過空間層次與透視技術來增強視覺沉浸感？請設計一個近景與遠景對比明顯的提示語，並分析其視覺效果。
+* question: 全景風景如何透過空間層次與透視技術來增強視覺沉浸感？請設計一個近景與遠景對比明顯的指令，並分析其視覺效果。
 * answer: 
 
-  **1. 提示語一：近景的細膩呈現**
+  **1. 指令一：近景的細膩呈現**
 
-    - 提示語設計：A vibrant forest at dawn, with dew-covered leaves and moss on the tree trunks, bathed in soft golden morning light. The ground is scattered with colorful wildflowers, and a narrow stream meanders through, reflecting the light in ripples. The towering trees loom above, their bark detailed and textured, creating a sense of intimate connection with the natural world.
+    - 指令設計：A vibrant forest at dawn, with dew-covered leaves and moss on the tree trunks, bathed in soft golden morning light. The ground is scattered with colorful wildflowers, and a narrow stream meanders through, reflecting the light in ripples. The towering trees loom above, their bark detailed and textured, creating a sense of intimate connection with the natural world.
 
     - 視覺效果分析
       | 風格元素            | 描述                                                           |
@@ -560,9 +560,9 @@
       | **色彩與光影**       | 柔和的金色光暈與陰影交錯，強調溫暖、清晨的輕盈感，創造柔和沉浸感         |
       | **情感印象**         | 親密、安靜、自然和諧，讓觀者感受到深入其中的平和與與自然的聯結         |
 
-  **2. 提示語二：遠景的壯闊景象**
+  **2. 指令二：遠景的壯闊景象**
 
-    - 提示語設計：A vast mountain range under a clear blue sky, stretching endlessly into the horizon. The jagged peaks are bathed in the soft glow of sunset, casting long shadows on the snow-covered slopes. A narrow river winds through the valley below, its path barely visible against the vast expanse of the wilderness. The farthest peaks are shrouded in mist, adding a sense of mystery and distance.
+    - 指令設計：A vast mountain range under a clear blue sky, stretching endlessly into the horizon. The jagged peaks are bathed in the soft glow of sunset, casting long shadows on the snow-covered slopes. A narrow river winds through the valley below, its path barely visible against the vast expanse of the wilderness. The farthest peaks are shrouded in mist, adding a sense of mystery and distance.
 
     - 視覺效果分析
       | 風格元素            | 描述                                                           |
@@ -589,10 +589,10 @@
   ![image](https://github.com/user-attachments/assets/f71fafdb-604f-495a-8e2f-a1ec48ca78bb)
 
 **3. 問題與討論**
-* question: 霧氣如何影響畫面的深度與情感表達？請設計一個早晨霧氣與一個夜晚霧氣場景的提示語，並比較它們的視覺效果與情感影響。
+* question: 霧氣如何影響畫面的深度與情感表達？請設計一個早晨霧氣與一個夜晚霧氣場景的指令，並比較它們的視覺效果與情感影響。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 早晨霧氣場景：A soft, delicate morning mist gently wraps around the lush green meadow, the rising sun barely piercing through the thick haze. The world is muted, with shapes blurred and softened, creating a quiet, almost dreamlike atmosphere. The air feels fresh but heavy, as if holding its breath, with only the faint outline of trees and flowers emerging from the fog. The mist glows faintly with golden light as the first rays of the sun slowly dissolve the fog.
     - 夜晚霧氣場景：A thick, oppressive fog blankets the deserted streets, with faint streetlights casting dim, yellow halos through the mist. Shadows stretch long and uncertain, with the outlines of buildings barely visible through the haze. The world feels closed in, the air damp and heavy, as if holding secrets. The sound of distant footsteps echoes eerily, but the fog muffles everything else, creating a sense of isolation and unease. The moon, half-obscured by the mist, casts an ethereal glow that adds to the ominous mood.
 
@@ -624,12 +624,12 @@
   ![image](https://github.com/user-attachments/assets/730ea534-c81f-43e7-85ff-5a2a2ea70511)
 
 **3. 問題與討論**
-* question: 在都市環境中，雨後的視覺效果如何影響畫面的情緒表達？請設計一個清晨雨後與一個夜晚雨後的提示語，並分析它們如何影響場景氛圍。
+* question: 在都市環境中，雨後的視覺效果如何影響畫面的情緒表達？請設計一個清晨雨後與一個夜晚雨後的指令，並分析它們如何影響場景氛圍。
 * answer: 
 
   **1. 清晨雨後場景**
 
-    - 提示語設計：A quiet, serene morning after the rain. The city streets glisten with fresh droplets, reflecting the soft hues of the early sun. Wet pavement creates pools of light, with the glow of street lamps gently fading into the dawn. The air is crisp, with a hint of earthy freshness, and the streets, once bustling, are now calm and almost empty. The mist from the rain lingers in the air, giving the scene a hazy, dreamlike quality. The world feels peaceful, as if the rain has washed away the noise and left behind a clean slate.
+    - 指令設計：A quiet, serene morning after the rain. The city streets glisten with fresh droplets, reflecting the soft hues of the early sun. Wet pavement creates pools of light, with the glow of street lamps gently fading into the dawn. The air is crisp, with a hint of earthy freshness, and the streets, once bustling, are now calm and almost empty. The mist from the rain lingers in the air, giving the scene a hazy, dreamlike quality. The world feels peaceful, as if the rain has washed away the noise and left behind a clean slate.
 
     - 視覺效果分析
       | 風格元素            | 描述                                                           |
@@ -641,7 +641,7 @@
 
   **2. 夜晚雨後場景**
 
-    - 提示語設計：The city after the rain at night, bathed in the eerie glow of neon signs reflecting off the wet pavement. Streets are quiet, save for the distant hum of cars driving through puddles. The air is thick, heavy with the lingering moisture, and the streetlights cast sharp, contrasting shadows on the slick roads. Rainwater forms small rivers along the gutters, rippling in the faint light. The atmosphere feels distant and contemplative, as if the city has been washed clean, but remains soaked in mystery and solitude.
+    - 指令設計：The city after the rain at night, bathed in the eerie glow of neon signs reflecting off the wet pavement. Streets are quiet, save for the distant hum of cars driving through puddles. The air is thick, heavy with the lingering moisture, and the streetlights cast sharp, contrasting shadows on the slick roads. Rainwater forms small rivers along the gutters, rippling in the faint light. The atmosphere feels distant and contemplative, as if the city has been washed clean, but remains soaked in mystery and solitude.
 
     - 視覺效果分析
       | 風格元素            | 描述                                                           |
@@ -665,10 +665,10 @@
   ![image](https://github.com/user-attachments/assets/b8fe2b66-eb96-4c00-855f-0bc2ff261421)
 
 **3. 問題與討論**
-* question: 黃昏場景如何透過色調與光影營造寧靜與溫暖的情感？請設計一個繁忙都市黃昏與一個鄉村田園黃昏的提示語，並比較它們的視覺效果。
+* question: 黃昏場景如何透過色調與光影營造寧靜與溫暖的情感？請設計一個繁忙都市黃昏與一個鄉村田園黃昏的指令，並比較它們的視覺效果。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 繁忙都市黃昏場景：As the sun sets over the bustling city, golden light spills across the towering skyscrapers, casting long shadows onto the crowded streets below. The sky is a soft gradient of orange and pink, while the city's lights begin to flicker on, adding their cool, artificial glow to the warm natural light. People move quickly through the streets, but the golden hour gives the scene a brief moment of serenity. The contrast between the fading sunlight and the rising city lights creates a dynamic, yet peaceful urban landscape, full of energy but tinged with a quiet warmth.
     - 鄉村田園黃昏場景：The golden hues of the setting sun spread across the vast, open fields, casting soft light on the rolling hills and quiet cottages. The sky is a gradient of warm oranges and pinks, with the sun gently dipping below the horizon. A faint breeze stirs the tall grasses, adding movement to the otherwise still landscape. The gentle light creates a tranquil, almost dreamlike atmosphere, where the world seems to slow down and time feels suspended. The peaceful silence is broken only by the distant chirping of crickets and the rustling of leaves, creating a serene and nostalgic scene.
 
@@ -700,12 +700,12 @@
   ![image](https://github.com/user-attachments/assets/76758d39-33a1-4cf6-86c6-edba40e38425)
 
 **3. 問題與討論**
-* question: 不同的水流狀態如何影響畫面的動態感？請設計一個平靜湖泊與一個瀑布水流的提示語，並分析它們的視覺與情感對比。
+* question: 不同的水流狀態如何影響畫面的動態感？請設計一個平靜湖泊與一個瀑布水流的指令，並分析它們的視覺與情感對比。
 * answer: 
 
   **1. 平靜湖泊場景**
 
-    - 提示語設計：The serene lake mirrors the soft hues of the sky as the sun begins to set. The water is perfectly still, reflecting the surrounding trees, mountains, and clouds in a flawless, glass-like surface. A gentle breeze occasionally ripples the water, but the overall stillness remains. The air is cool and calm, and the peaceful silence envelops the scene, creating a sense of tranquility. The water’s surface is a smooth canvas, inviting reflection and quiet contemplation.
+    - 指令設計：The serene lake mirrors the soft hues of the sky as the sun begins to set. The water is perfectly still, reflecting the surrounding trees, mountains, and clouds in a flawless, glass-like surface. A gentle breeze occasionally ripples the water, but the overall stillness remains. The air is cool and calm, and the peaceful silence envelops the scene, creating a sense of tranquility. The water’s surface is a smooth canvas, inviting reflection and quiet contemplation.
 
     - 視覺效果分析
       | 風格元素            | 描述                                                           |
@@ -716,7 +716,7 @@
 
   **2. 瀑布水流場景**
 
-    - 提示語設計：The powerful waterfall cascades over the jagged rocks, creating a thunderous roar as the water crashes down into the pool below. The rushing water moves with intense force, creating a dynamic, energetic flow. Mist rises from the base of the falls, adding to the sense of movement and power. Sunlight filters through the mist, creating dramatic, shimmering effects in the air. The water splashes and churns violently, filling the scene with motion and a sense of untamed natural energy.
+    - 指令設計：The powerful waterfall cascades over the jagged rocks, creating a thunderous roar as the water crashes down into the pool below. The rushing water moves with intense force, creating a dynamic, energetic flow. Mist rises from the base of the falls, adding to the sense of movement and power. Sunlight filters through the mist, creating dramatic, shimmering effects in the air. The water splashes and churns violently, filling the scene with motion and a sense of untamed natural energy.
 
     - 視覺效果分析
       | 風格元素            | 描述                                                           |
@@ -739,10 +739,10 @@
   ![image](https://github.com/user-attachments/assets/3d55008e-4e6c-40a5-9267-8cef431f42f6)
 
 **3. 問題與討論**
-* question: 如何利用光影與模糊效果來模擬微風吹拂的感覺？請設計一個樹葉靜止與一個樹葉隨風飄動的提示語，並分析其動態感的視覺呈現。
+* question: 如何利用光影與模糊效果來模擬微風吹拂的感覺？請設計一個樹葉靜止與一個樹葉隨風飄動的指令，並分析其動態感的視覺呈現。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 樹葉靜止場景：In a quiet forest glade, the leaves of an ancient oak tree remain perfectly still, bathed in soft, dappled sunlight. The light filters through the branches above, casting intricate shadows on the ground. The leaves’ edges are sharp and well-defined, without any distortion, reflecting the calm atmosphere. The stillness of the scene is emphasized by the subtle, crisp textures of the leaves and the gentle, steady light, suggesting that the air is calm and the moment is peaceful.
     - 樹葉隨風飄動場景：The leaves of a tall birch tree gently sway in the breeze, their edges blurred by the soft wind. As the breeze moves through the forest, the leaves rustle and dance in the air, casting fleeting shadows on the ground. The sunlight shines through the moving leaves, creating shifting, soft light patterns. The motion of the leaves is captured with a subtle blur around the edges, giving the scene a sense of delicate movement and the sensation of the wind's caress.
 
@@ -771,10 +771,10 @@
   ![image](https://github.com/user-attachments/assets/fdcbe224-ba7a-4a41-9d19-ae52687a7c2a)
 
 **3. 問題與討論**
-* question: 如何透過形狀與色彩選擇來影響 Logo 的品牌認知？請設計一個適合金融機構與一個適合遊戲公司的 Logo 提示語，並分析它們的差異。
+* question: 如何透過形狀與色彩選擇來影響 Logo 的品牌認知？請設計一個適合金融機構與一個適合遊戲公司的 Logo 指令，並分析它們的差異。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 金融機構 Logo：Design a minimalist logo for a financial institution. The logo should use sharp, clean lines and geometric shapes like squares or rectangles to symbolize stability and trust. The color palette should include deep blues and metallic silvers or golds to convey professionalism, reliability, and security. The logo should feature a strong, symmetrical design, with a simple, bold font to further reinforce the idea of stability and strength in the financial world.
     - 遊戲公司 Logo：Design a dynamic and playful logo for a video game company. The logo should incorporate fluid, organic shapes like curves or abstract forms to evoke creativity and excitement. Use vibrant, bold colors such as bright oranges, purples, or greens to reflect energy, innovation, and fun. The font should be modern and dynamic, perhaps incorporating elements that look futuristic or fantastical, to capture the sense of adventure and excitement in gaming.
 
@@ -816,7 +816,7 @@
 * question: 如何調整色彩與排版來影響廣告的吸引力？請設計一個高對比色彩的廣告與一個低對比色彩的廣告，並比較它們的視覺影響。
 * answer: 
 
-  **1. 提示語設計**
+  **1. 指令設計**
     - 高對比色彩：Design an eye-catching advertisement with bold, high-contrast colors. Use a combination of vibrant red and deep black, with white text for the call-to-action. The composition should be dynamic, with large, attention-grabbing text positioned prominently at the center. The layout should be minimalistic, with the focus on the product image. This design should evoke a sense of urgency, excitement, and boldness, capturing the viewer’s immediate attention.
     - 低對比色彩：Design a calm and sophisticated advertisement with a soft color palette. Use pastel tones like light blue, pale pink, and cream with subtle gradients to create a smooth, elegant look. The typography should be delicate and refined, with small, serif fonts placed in a balanced layout. The ad should focus on lifestyle imagery, creating a soothing and aspirational atmosphere.
 
@@ -891,12 +891,12 @@
   ![image](https://github.com/user-attachments/assets/a81c662d-fbae-4748-b46e-494d4d73deda)
 
 **3. 問題與討論**
-* question: 如何選擇並組合不同藝術風格，使其在單一畫面中和諧共存？請設計兩個融合不同風格（如巴洛克 + 科幻、未來都市 + 中世紀）的提示語，並分析它們的視覺與敘事效果。
+* question: 如何選擇並組合不同藝術風格，使其在單一畫面中和諧共存？請設計兩個融合不同風格（如巴洛克 + 科幻、未來都市 + 中世紀）的指令，並分析它們的視覺與敘事效果。
 * answer: 
 
   **1. 巴洛克 + 科幻**
 
-    - 提示語設計：在宏偉的巴洛克宮殿中，天花板的圓頂畫作呈現出動態的星際戰爭場面，宇宙船在金碧輝煌的雕刻中飛行，光芒從雕塑的輪廓中透出，彷彿未來與過去的交錯。巴洛克風格的精緻曲線和細節刻畫與科幻元素的冷冽機械感相對立，形成強烈的視覺張力。
+    - 指令設計：在宏偉的巴洛克宮殿中，天花板的圓頂畫作呈現出動態的星際戰爭場面，宇宙船在金碧輝煌的雕刻中飛行，光芒從雕塑的輪廓中透出，彷彿未來與過去的交錯。巴洛克風格的精緻曲線和細節刻畫與科幻元素的冷冽機械感相對立，形成強烈的視覺張力。
 
     - 視覺效果分析
       - 色彩與光影：巴洛克風格的畫作通常使用深色調，金色和白色的光影對比強烈，這些色調可以與科幻風格的冷藍或銀色調相互作用，創造一種豐富的光影層次感。金色的裝飾和未來感的金屬結構可能形成互補，將過去的華麗與未來的冷靜相融合。
@@ -906,7 +906,7 @@
 
   **2. 未來都市 + 中世紀**
 
-    - 提示語設計：在未來都市的高科技天際線下，一座古老的中世紀城堡矗立其間，城堡的石牆被霓虹燈光照亮，拱門和塔樓上閃爍著電子屏幕。城市的飛行車穿梭於古老的街道之上，鋼鐵和玻璃的結構與中世紀的石砌建築交織在一起，表現出一種古老與現代、傳統與未來的對話。
+    - 指令設計：在未來都市的高科技天際線下，一座古老的中世紀城堡矗立其間，城堡的石牆被霓虹燈光照亮，拱門和塔樓上閃爍著電子屏幕。城市的飛行車穿梭於古老的街道之上，鋼鐵和玻璃的結構與中世紀的石砌建築交織在一起，表現出一種古老與現代、傳統與未來的對話。
 
     - 視覺效果分析
       - 色彩與材質：未來都市風格的視覺設計通常會使用冷色調，如藍色、灰色或金屬色，這與中世紀風格的溫暖、土色調（如褐色、金色和石灰色）形成對比。霓虹燈光和數位顯示屏可以與古老城堡的石牆及木質結構互動，創造出一種奇異但富有張力的視覺效果。
@@ -965,21 +965,23 @@
     | **廣告設計**      | 簡潔、強調產品細節，現代感  | 色彩鮮豔、活潑，富有趣味 |
 
 
-### Lab 26: 精確複製與提示語優化實戰
+### Lab 26: 精確複製與指令優化實戰
 
 **題目要求**
 ![image](https://github.com/user-attachments/assets/df8e2e1f-bb38-43de-8c0f-35d50810db1b)
-觀察這張圖片，設計一個提示語，想辦法復刻它
+觀察這張圖片，設計一個指令，想辦法復刻它
 
 **1. 第一次嘗試**
-* prompt: 
+* prompt: A premium organic food packaging box on a wooden table, with a minimalist design. The box has soft beige and light green tones, embossed leaf illustrations, and elegant serif fonts. The label reads "High-End Organic Food" in a refined layout, with eco-certification icons at the bottom. Natural sunlight creates soft shadows and a warm atmosphere. Realistic 3D render, top-down view.
 * result: 
-  
-**2. 第二次嘗試（微調 prompt）**
-* prompt: 
+  ![image](https://github.com/user-attachments/assets/45fcaf1d-f259-489f-9084-8c7701cfae6c)
+
+**2. 第二次嘗試（Fine-tuning）**
+* prompt: First, Make the box a little longer and add wood grain on the upper surface of the box. Second, make the texture of the table woody. Third, add four certification badges for the product.
 * result:
-  
-**3. 第三次嘗試（微調 prompt）**
+  ![image](https://github.com/user-attachments/assets/246ac78e-d5d0-4b3e-8f8d-9920da0a929b)
+
+**3. 第三次嘗試（重新設計 prompt）**
 * prompt: 
 * result:
 
@@ -992,10 +994,12 @@
 * result:
 
 **對比分析報告**
-* 哪些提示語調整最有效？
-  
+* 哪些指令調整最有效？
+  在生成結果已經不錯的情況下進行微調。
 * 哪些元素最難還原？為什麼？
-  
+  1. 立體浮雕感：容易變成平面印刷感 / 光影方向錯亂 / 浮雕失真。
+  2. 紙盒上壓紋：可能變彎曲或不對稱，有時整個紋理直接消失。
+  3. 下方多個圓形標章圖示：有可能圖案錯亂、模糊，但最常見的是字母變成錯字或亂碼。
 * 如果要再進一步改善，你會怎麼調整？
   
 
@@ -1003,7 +1007,7 @@
 
 ## 最終問題討論
 
-**一、你的提示語如何影響 AI 生成的結果？請舉例說明哪些關鍵詞或結構調整後，對圖片的影響最大？**
+**一、你的指令如何影響 AI 生成的結果？請舉例說明哪些關鍵詞或結構調整後，對圖片的影響最大？**
 
 **1. 關鍵詞選擇**
 
@@ -1019,7 +1023,7 @@
 
 **3. 畫面細節**
 
-- 細節程度：如果提示語中描述了褶皺、面料紋理等細節，AI 會加強衣物的細膩度；而如果只提到簡單的輪廓，則可能生成更加簡潔、概略的形象。
+- 細節程度：如果指令中描述了褶皺、面料紋理等細節，AI 會加強衣物的細膩度；而如果只提到簡單的輪廓，則可能生成更加簡潔、概略的形象。
 - 視覺重點：前景人物會引導視線聚焦於人物的表情、動作，而背景中的物件則可能使畫面強調環境與氛圍，進而影響圖像的焦點與視覺層次，導向不同的情感表達。
 
 **4. 風格與技術描述**：
@@ -1032,7 +1036,7 @@
 
 
 
-**三、如果 AI 無法完全複製原圖，應該如何調整提示語，使結果更趨近目標？請提供一個優化後的提示語並解釋改動的邏輯。**
+**三、如果 AI 無法完全複製原圖，應該如何調整指令，使結果更趨近目標？請提供一個優化後的指令並解釋改動的邏輯。**
 
 
 
