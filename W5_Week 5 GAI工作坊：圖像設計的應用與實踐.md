@@ -982,16 +982,14 @@
   ![image](https://github.com/user-attachments/assets/246ac78e-d5d0-4b3e-8f8d-9920da0a929b)
 
 **3. 第三次嘗試（重新設計 prompt）**
-* prompt: 
+* prompt: A high-end organic food packaging box placed on a wooden table, with a minimalist and elegant design. The box is cream-colored with subtle vertical texture lines, featuring a centered olive green label. The label has a stylized plant illustration and large embossed text that reads "Organic Food". The bottom includes abstract circular icons indicating eco-friendly and organic certification, but no readable text. The scene is softly lit with natural morning sunlight and shadows.
 * result:
+  ![image](https://github.com/user-attachments/assets/f53442bb-f8d8-40a4-b922-b48a824b7b29)
 
 **4. 第四次嘗試（微調 prompt）**
-* prompt: 
+* prompt: A premium organic food packaging box lying flat on a wooden surface, viewed from a slight top-down perspective. The box is cream-colored with embossed vertical ridges. At the center is a rectangular olive green label with a minimalist plant illustration and large, embossed serif text that reads "Organic Food". Below the label are several round icons representing eco-friendly certifications, but no legible text. The scene is softly lit with natural sunlight casting long shadows across the wood surface.
 * result:
-
-**5. 第五次嘗試（微調 prompt）**
-* prompt: 
-* result:
+  ![image](https://github.com/user-attachments/assets/66e555f6-32cc-43e2-8b36-08ce3bf370a1)
 
 **對比分析報告**
 * 哪些指令調整最有效？
@@ -1001,7 +999,11 @@
   2. 紙盒上壓紋：可能變彎曲或不對稱，有時整個紋理直接消失。
   3. 下方多個圓形標章圖示：有可能圖案錯亂、模糊，但最常見的是字母變成錯字或亂碼。
 * 如果要再進一步改善，你會怎麼調整？
-  
+  * 指定 logo 構圖更精準：e.g. 把植物 logo 的描述改為「a single central leaf with symmetrical side twigs」或「a simple, stylized herbal plant with three branches: one center, two sides」。
+  * 文字質感更明確化為「平面印刷」：e.g. 在 prompt 加一句明確指示，像「Printed flat text only, no embossing or 3D effect」（或更簡潔的「Flat print style text」）
+  * icon 標章位置更準確：e.g. 加入「Four small eco-certification icons aligned in a straight row under the label」或「Equally spaced in one horizontal line, centered」
+  * 精簡文字以避免內文跑掉：e.g. 明示使用 placeholder，像「Use clean placeholder text for product details」或「Do not use gibberish, lorem ipsum or excessive small text」。
+  * 讓整體更貼近產品攝影：e.g. 加入「高質感」風格詞：補充風格指示，像「Minimalist, modern packaging design」或「Premium look with soft natural shadows and clean layout」
 
 ---
 
@@ -1032,13 +1034,39 @@
 - 技術細節：如數位藝術風格通常會呈現出乾淨、平滑、明確的線條，而手繪油畫風格會強調畫筆痕跡、濃厚的油漆質感。這些細節改變了圖像的質感和風格。
 
 
-**二、在這 1 個圖片中，哪一個更難精確複製？為什麼？有哪些可能的技術限制？**
+**二、在這 1 個圖片中，哪個細節更難精確複製？為什麼？有哪些可能的技術限制？**
 
+最難精確複製的細節是底部那一排小圖示與文字。推測原因如下：
+
+* 小尺寸 + 高精細度要求：圖像生成模型在處理微小、密集的區域時容易模糊或產生錯誤，常會變得難以辨識，或出現不符合語言邏輯的假字（pseudo text）。
+* 文字生成限制：AI 模型在圖片中生成可辨識的文字仍存在技術瓶頸，難以正確呈現所有細節。
+* 語義與視覺結合的複雜性：這類包裝設計同時涉及品牌定位、美感、排版規則與語義結構的邏輯（例如特定符號代表的含義），AI 模型難以同時準確捕捉並生成。
+
+而可能的技術限制包含：
+
+* 解析度限制：多數生成模型預設為 512x512 或 1024x1024，細節放大後容易模糊。
+* 文字辨識能力：模型生成圖像中的文字常不符合真實語言。
+* 符號識別困難：如標章、商標等精緻圖示對模型的學習難度高，常會產生變形或錯位。
+* 視覺一致性問題：同一張圖中若須保持風格統一（如一系列圖標），模型常難以維持一致性。
 
 
 **三、如果 AI 無法完全複製原圖，應該如何調整指令，使結果更趨近目標？請提供一個優化後的指令並解釋改動的邏輯。**
 
+**1. 指令設計原則**
 
+- 簡化細節描述，聚焦「風格」與「主結構」。
+- 避免要求 AI 生成具辨識性的文字（如標章小字），改以說明「用途或樣式」呈現。
+- 加入「攝影風格」、「材質」、「光影效果」等關鍵字，提升真實感。
+- 在語句中強調重點元素與忽略區塊的「相對重要性」。
 
+**2. 指令優化**：A high-end organic food packaging box placed on a wooden table, with a minimalist and elegant design. The box is cream-colored with subtle vertical texture lines, featuring a centered olive green label. The label has a stylized plant illustration and large embossed text that reads "Organic Food". The bottom includes abstract circular icons indicating eco-friendly and organic certification, but no readable text. The scene is softly lit with natural morning sunlight and shadows.
 
+**3. 改動邏輯說明（以第三次重新設計為例）**
 
+| 元素                         | 原圖特徵                                     | 指令調整邏輯                                                                 |
+|------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| **整體風格與主題**           | 高級、簡約、有機                            | 用 "high-end organic food packaging" 明確指定主題與定位                     |
+| **質感與外觀**               | 米白色外盒、有立體直條紋                   | 描述為 "cream-colored" 並補上 "vertical texture lines" 增加立體感           |
+| **標籤設計**                 | 中央有葉子插畫與大字體文字 "Organic Food"  | 指定 "centered olive green label" 和 "stylized plant illustration"           |
+| **小圖示與標章文字**         | 精細但難以辨識                              | 改寫為 "abstract circular icons… no readable text"，避免 AI 模糊錯字         |
+| **光影效果**                 | 光線從側邊照射，增加真實感                  | 加上 "softly lit with natural morning sunlight and shadows" 描述氛圍         |
