@@ -986,7 +986,7 @@
 * result:
   ![image](https://github.com/user-attachments/assets/f53442bb-f8d8-40a4-b922-b48a824b7b29)
 
-**4. 第四次嘗試（微調 prompt）**
+**4. 第四次嘗試（再次重新設計 prompt）**
 * prompt: A premium organic food packaging box lying flat on a wooden surface, viewed from a slight top-down perspective. The box is cream-colored with embossed vertical ridges. At the center is a rectangular olive green label with a minimalist plant illustration and large, embossed serif text that reads "Organic Food". Below the label are several round icons representing eco-friendly certifications, but no legible text. The scene is softly lit with natural sunlight casting long shadows across the wood surface.
 * result:
   ![image](https://github.com/user-attachments/assets/66e555f6-32cc-43e2-8b36-08ce3bf370a1)
