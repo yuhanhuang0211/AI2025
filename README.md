@@ -11,6 +11,8 @@
 * [Week 3 生成式人工智慧（GENERATIVE AI；GAI）其基礎與應用: 起手式](https://marmalade-freesia-605.notion.site/Week-3-GENERATIVE-AI-GAI-1a67643aed3c804baf4aea89a65e91b1)
 * [Week 4 GAI工作坊： 全面升級 Prompt 心法 - 提升AI應用能力，開啟智能未來](https://marmalade-freesia-605.notion.site/Week-4-GAI-Prompt-AI-1ad7643aed3c809785c7ffd3ea242d28)
 * [Week 5 GAI工作坊：圖像設計的應用與實踐  ](https://marmalade-freesia-605.notion.site/Week-5-GAI-1b47643aed3c802583dee44ef1595b86)
+* [Week 6 進階解放ChatGPT實力🚀, ChatGPT新功能大揭密👀, Prompt Engineering Cheat Sheet！](https://marmalade-freesia-605.notion.site/Week-6-ChatGPT-ChatGPT-Prompt-Engineering-Cheat-Sheet-1bb7643aed3c80e4ba36fb2cbb5d3c58)
+* [Week 7 AI應用: DronePaint, NN, DNN, Misc. 🚀](https://igrowth-edu.notion.site/Week-7-AI-DronePaint-NN-DNN-Misc-1c06d583015280ffa383e7be74b62dc5)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
 
