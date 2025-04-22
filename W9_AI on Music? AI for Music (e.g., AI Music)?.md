@@ -1,6 +1,6 @@
 # W9 課程進度
 
-教材在此 >> [Week 9 AI on Music? AI for Music (e.g., AI Music)?](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
+教材在此 >> [Week 9 AI on Music? AI for Music (e.g., AI Music)?](https://igrowth-edu.notion.site/Week-9-AI-on-Music-AI-for-Music-e-g-AI-Music-1d66d583015280bd9aeec16961734433?pvs=25)
 
 * Use [Suno AI](https://suno.com) to complete 5 labs.
 
