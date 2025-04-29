@@ -2,7 +2,7 @@
 
 教材在此 >> [Week 10 AI視頻生成工具?](https://igrowth-edu.notion.site/Week-10-AI-1d66d58301528085b4a2e64ce987f6ba)
 
-* Complete the labs below (assigned on w11) ↓↓
+* Complete the labs below (assigned on W11) ↓↓
 
 ---
 
