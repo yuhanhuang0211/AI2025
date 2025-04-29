@@ -14,7 +14,8 @@
 * [Week 6 進階解放ChatGPT實力🚀, ChatGPT新功能大揭密👀, Prompt Engineering Cheat Sheet！](https://marmalade-freesia-605.notion.site/Week-6-ChatGPT-ChatGPT-Prompt-Engineering-Cheat-Sheet-1bb7643aed3c80e4ba36fb2cbb5d3c58)
 * [Week 7 AI應用: DronePaint, NN, DNN, Misc. 🚀](https://igrowth-edu.notion.site/Week-7-AI-DronePaint-NN-DNN-Misc-1c06d583015280ffa383e7be74b62dc5)
 * [Week 9 AI on Music? AI for Music (e.g., AI Music)?](https://igrowth-edu.notion.site/Week-9-AI-on-Music-AI-for-Music-e-g-AI-Music-1d66d583015280bd9aeec16961734433)
-* [Week 10 AI視頻生成工具?](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
+* [Week 10 AI視頻生成工具?](https://igrowth-edu.notion.site/Week-10-AI-1d66d58301528085b4a2e64ce987f6ba)
+* [Week 11 AI期中報告成果發表 😍🏅👍](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
 
