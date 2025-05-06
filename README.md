@@ -15,10 +15,10 @@
 * [Week 7 AI應用: DronePaint, NN, DNN, Misc. 🚀](https://igrowth-edu.notion.site/Week-7-AI-DronePaint-NN-DNN-Misc-1c06d583015280ffa383e7be74b62dc5)
 * [Week 9 AI on Music? AI for Music (e.g., AI Music)?](https://igrowth-edu.notion.site/Week-9-AI-on-Music-AI-for-Music-e-g-AI-Music-1d66d583015280bd9aeec16961734433)
 * [Week 10 AI視頻生成工具?](https://igrowth-edu.notion.site/Week-10-AI-1d66d58301528085b4a2e64ce987f6ba)
-* [Week 11 AI期中報告成果發表 😍🏅👍](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
+* [Week 11 AI期中報告成果發表 😍🏅👍](https://igrowth-edu.notion.site/Week-11-AI-1e46d5830152804c878fe8dee2ea17ff)
+* [Week 12-13 解鎖AI創作力：從故事到影片的AI整合實戰 🚀🎬](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
 
 ![image](https://github.com/user-attachments/assets/3ded0c62-cbe6-458f-9bb7-b2c8d2eaa7b4)
-
 
