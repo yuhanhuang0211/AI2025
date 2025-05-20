@@ -16,7 +16,10 @@
 * [Week 9 AI on Music? AI for Music (e.g., AI Music)?](https://igrowth-edu.notion.site/Week-9-AI-on-Music-AI-for-Music-e-g-AI-Music-1d66d583015280bd9aeec16961734433)
 * [Week 10 AI視頻生成工具?](https://igrowth-edu.notion.site/Week-10-AI-1d66d58301528085b4a2e64ce987f6ba)
 * [Week 11 AI期中報告成果發表 😍🏅👍](https://igrowth-edu.notion.site/Week-11-AI-1e46d5830152804c878fe8dee2ea17ff)
-* [Week 12-13 解鎖AI創作力：從故事到影片的AI整合實戰 🚀🎬](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
+* [Week 12-13 解鎖AI創作力：從故事到影片的AI整合實戰 🚀🎬](https://igrowth-edu.notion.site/Week-12-13-AI-AI-1eb6d583015280d3965ecdd7d6e38408?pvs=25)
+* [W14 AI必學的程式語言? Python? 應用?](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
+* [W15 AI應用: 網路爬蟲, 圖像分類, MNIST](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
+* [Week 16 期末專案 —「YouTube 行銷方案：結合自己的主修專業助力敏盛企業 (Mavin) 提升品牌影響力」](https://igrowth-edu.notion.site/Week-16-YouTube-Mavin-1eb6d58301528019a8a7ee0f6f662831?pvs=25)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
 
