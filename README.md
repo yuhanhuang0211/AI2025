@@ -1,6 +1,8 @@
 # AI2025
 
-國立臺北大學 113-2「人工智慧導論」課程專用
+國立臺北大學 113-2學期「人工智慧導論」課程專用
+
+學生資訊：會計學系二年級 黃雨涵
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
 
