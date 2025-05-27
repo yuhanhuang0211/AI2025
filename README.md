@@ -2,6 +2,8 @@
 
 國立臺北大學 113-2「人工智慧導論」課程專用
 
+![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
+
 [＊點我看課程大綱](https://sea.cc.ntpu.edu.tw/pls/dev_stud/course_query.queryGuide?g_serial=U4373&g_year=113&g_term=2&show_info=part)
 
 [＊點我前往課程教材](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
@@ -20,8 +22,6 @@
 * [Week 14 AI必學的程式語言? Python? 應用?](https://igrowth-edu.notion.site/Week-14-AI-Python-1eb6d583015280a3a831c8c757de76ad)
 * [Week 15 AI應用: 網路爬蟲, 圖像分類, MNIST](https://igrowth-edu.notion.site/Spring-2025-AI-AI-Journey-1966d5830152801396f5d6ca5c12b20b)
 * [Week 16 期末專案 —「YouTube 行銷方案：結合自己的主修專業助力敏盛企業 (Mavin) 提升品牌影響力」](https://igrowth-edu.notion.site/Week-16-YouTube-Mavin-1eb6d58301528019a8a7ee0f6f662831?pvs=25)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yuhanhuang0211/AI2025)
 
 ![image](https://github.com/user-attachments/assets/3ded0c62-cbe6-458f-9bb7-b2c8d2eaa7b4)
 
